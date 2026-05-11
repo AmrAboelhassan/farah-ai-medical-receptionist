@@ -43,6 +43,11 @@ Clinics often spend time handling repeated patient questions, registration steps
 
 Prototype completed during the AI MicroMind Agent Builder internship.
 
-## Note
+## Demo Posts
 
-The full implementation may remain private due to training or project constraints. This repository documents the project concept, workflow, and technical architecture.
+- Part 1 – New patient registration workflow:  
+  https://www.linkedin.com/posts/%D9%90%D9%90amr-aboelhassan0_ai-langchain-promptengineering-ugcPost-7381418504572547072-dXdJ
+
+- Part 2 – Returning patient appointment workflow:  
+  https://www.linkedin.com/posts/%D9%90%D9%90amr-aboelhassan0_ai-langchain-promptengineering-ugcPost-7381419196343083008--3ON
+
